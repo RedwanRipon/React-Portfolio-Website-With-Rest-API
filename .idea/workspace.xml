@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53bc539f-f9d2-4a3e-b6d7-17e293acae62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/RestAPI/AppUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RestAPI/ReactClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/app.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/graphics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/loader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/software.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/image/webapp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CourseDetails/CourseDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loading/Loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PrivacyPolicy/PrivacyPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProjectDetails/ProjectDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RefundPolicy/RefundPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TermsCondition/TermsCondition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WentWrong/WentWrong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CourseDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PrivacyPolicyPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProjectDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/RefundPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/TermsConditionPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/asset/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/asset/image/web.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/image/web.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutDescription/AboutDescription.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutDescription/AboutDescription.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AllCourses/AllCourses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AllCourses/AllCourses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AllProjects/AllProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AllProjects/AllProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Analysis/Analysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Analysis/Analysis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ClientReview/ClientReview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ClientReview/ClientReview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContactSection/ContactSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactSection/ContactSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Courses/Courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Courses/Courses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RecentProjects/RecentProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RecentProjects/RecentProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Services/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/Services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Summary/Summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Summary/Summary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TopBanner/TopBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopBanner/TopBanner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Video/Video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Video/Video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CoursesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CoursesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PortfolioPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PortfolioPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ServicePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ServicePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/AppRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/AppRoute.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UX51T4q9Kimvlpun9CZ0Rrx6Df" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/asset/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Redwan Hossain\PhpstormProjects\user\src\asset\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Redwan Hossain\PhpstormProjects\user\src\components\ContactSection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.RiponDebugg">
+    <configuration name="AppDebug" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="ReactDebugg" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="RiponDebugg" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.RiponDebugg" />
+      <item itemvalue="JavaScript Debug.ReactDebugg" />
+      <item itemvalue="JavaScript Debug.AppDebug" />
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53bc539f-f9d2-4a3e-b6d7-17e293acae62" name="Default Changelist" comment="" />
+      <created>1575489894584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575489894584</updated>
+      <workItem from="1575489976402" duration="1732000" />
+      <workItem from="1575526062105" duration="12077000" />
+      <workItem from="1575572769753" duration="6482000" />
+      <workItem from="1575625805515" duration="14438000" />
+      <workItem from="1575717767423" duration="6762000" />
+      <workItem from="1575743223042" duration="2056000" />
+      <workItem from="1575801815139" duration="3473000" />
+      <workItem from="1575832806458" duration="2753000" />
+      <workItem from="1575877576232" duration="1580000" />
+      <workItem from="1575912672215" duration="4705000" />
+      <workItem from="1575974157810" duration="4300000" />
+      <workItem from="1576008515748" duration="5075000" />
+      <workItem from="1576067647458" duration="1326000" />
+      <workItem from="1576257814489" duration="535000" />
+      <workItem from="1576306607776" duration="742000" />
+      <workItem from="1577702622641" duration="84000" />
+      <workItem from="1579363506108" duration="9446000" />
+      <workItem from="1579632589195" duration="5492000" />
+      <workItem from="1579672290217" duration="1812000" />
+      <workItem from="1580048183382" duration="11857000" />
+      <workItem from="1580106487541" duration="4973000" />
+      <workItem from="1580245951898" duration="619000" />
+      <workItem from="1580580985391" duration="1051000" />
+      <workItem from="1580664975459" duration="971000" />
+      <workItem from="1581187901076" duration="92000" />
+      <workItem from="1581188916189" duration="86000" />
+      <workItem from="1582379281534" duration="1121000" />
+      <workItem from="1582397353825" duration="6196000" />
+      <workItem from="1582726346389" duration="6752000" />
+      <workItem from="1582979836786" duration="3572000" />
+      <workItem from="1583135369958" duration="2456000" />
+      <workItem from="1583488083257" duration="1562000" />
+      <workItem from="1583673635047" duration="3287000" />
+      <workItem from="1583743605448" duration="4335000" />
+      <workItem from="1583773981825" duration="9767000" />
+      <workItem from="1583989099658" duration="2599000" />
+      <workItem from="1584070965107" duration="5428000" />
+      <workItem from="1584077284749" duration="349000" />
+      <workItem from="1584355076936" duration="1970000" />
+      <workItem from="1584371278268" duration="4921000" />
+      <workItem from="1584503611462" duration="3040000" />
+      <workItem from="1584543215515" duration="6227000" />
+      <workItem from="1584601294968" duration="2157000" />
+      <workItem from="1584606115572" duration="8963000" />
+      <workItem from="1584625402912" duration="8754000" />
+      <workItem from="1584871082323" duration="774000" />
+      <workItem from="1585224461271" duration="12432000" />
+      <workItem from="1585678783883" duration="361000" />
+      <workItem from="1585820974401" duration="14184000" />
+      <workItem from="1585897221260" duration="10169000" />
+      <workItem from="1585924390065" duration="15152000" />
+      <workItem from="1586085755882" duration="28347000" />
+      <workItem from="1586180988769" duration="113000" />
+      <workItem from="1586188613854" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="26" key="#ESLint" timestamp="1584077541585">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="26" key="#ESLint/0.0.1360.728@0.0.1360.728" timestamp="1584077541585" />
+    <state x="154" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583675441706">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="154" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1583675441706" />
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579384593207">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1579384593207" />
+    <state x="791" y="148" width="539" height="580" key="#xdebugger.evaluate" timestamp="1585921016090">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="791" y="148" width="539" height="580" key="#xdebugger.evaluate/0.0.1360.728@0.0.1360.728" timestamp="1585921016090" />
+    <state width="1339" height="223" key="GridCell.Tab.0.bottom" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.0.center" timestamp="1585980604156">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585980604156" />
+    <state width="1339" height="223" key="GridCell.Tab.0.left" timestamp="1585980604156">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585980604156" />
+    <state width="1339" height="223" key="GridCell.Tab.0.right" timestamp="1585980604156">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585980604156" />
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.2.bottom" timestamp="1585980604158">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585980604158" />
+    <state width="1339" height="223" key="GridCell.Tab.2.center" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.2.left" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.2.right" timestamp="1585980604157">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1585980604157" />
+    <state width="1339" height="223" key="GridCell.Tab.3.bottom" timestamp="1585980604158">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585980604158" />
+    <state width="1339" height="223" key="GridCell.Tab.3.center" timestamp="1585980604158">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1585980604158" />
+    <state width="1339" height="223" key="GridCell.Tab.3.left" timestamp="1585980604158">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1585980604158" />
+    <state width="1339" height="223" key="GridCell.Tab.3.right" timestamp="1585980604158">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1585980604158" />
+    <state x="376" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586188637954">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="189" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1586188637953" />
+    <state x="244" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582728704317">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="244" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1360.728@0.0.1360.728" timestamp="1582728704317" />
+    <state x="0" y="0" width="710" height="728" key="find.popup" timestamp="1582727028353">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" width="710" height="728" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1582727028353" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="AppUrl.ProjectThree" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
